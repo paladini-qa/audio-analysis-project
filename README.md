@@ -40,31 +40,6 @@ python analyze.py
 
 3. View the results in the `output/` directory.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes:
-
-```bash
-git commit -m "Add feature-name"
-```
-
-4. Push to your branch:
-
-```bash
-git push origin feature-name
-```
-
-5. Open a pull request.
-
 ## Contact
 
-For questions or feedback, please contact [your-email@example.com](mailto:paladini.qa@gmail.com).
+For questions or feedback, please contact [paladini.qa@gmail.com](mailto:paladini.qa@gmail.com).
